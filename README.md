@@ -26,10 +26,10 @@
 
 ## 🎥 Видео демонстрация
 
-| Видео | Ссылка |
-|-------|---------|
-| 📹 Часть 1 | [Смотреть на YouTube](https://youtu.be/V9YfEENq0o0) |
-| 📹 Часть 2 | [Смотреть на YouTube](https://youtube.com/shorts/rw7n-p6RrEM?feature=share) |
+| Видео | Ссылка | Ссылка |
+|-------|----------|---------|
+| 📹 Часть 1 | [Смотреть на YouTube](https://youtu.be/V9YfEENq0o0) | [Яндекс Диск](https://disk.yandex.ru/i/5egaSstQy37Gyw) |
+| 📹 Часть 2 | [Смотреть на YouTube](https://youtube.com/shorts/rw7n-p6RrEM?feature=share) | [Яндекс Диск](https://disk.yandex.ru/i/4KMs9arI4x8wKQ) |
 
 ---
 
