@@ -242,14 +242,14 @@ class SplitReceiptForAllViewModel(
             splitOrderDataSplitListFlow
                 .debounce(250L)
                 .collect { orderDataSplitList ->
-                receiptDataFlow.value?.let { receipt ->
-                    createReceiptReportDataList(
-                        receiptData = receipt,
-                        orderDataSplitList = orderDataSplitList,
-                    )
+                    receiptDataFlow.value?.let { receipt ->
+                        createReceiptReportDataList(
+                            receiptData = receipt,
+                            orderDataSplitList = orderDataSplitList,
+                        )
+                    }
+                    setCheckStateExistence(orderDataSplitList = orderDataSplitList)
                 }
-                setCheckStateExistence(orderDataSplitList = orderDataSplitList)
-            }
         }
     }
 
@@ -442,7 +442,7 @@ class SplitReceiptForAllViewModel(
     private fun createReceiptReportDataList(
         receiptData: ReceiptData,
         orderDataSplitList: List<OrderDataSplit>,
-    ){
+    ) {
         viewModelScope.launch {
             orderReportCreator.buildOrderReportForAll(
                 receiptData = receiptData,

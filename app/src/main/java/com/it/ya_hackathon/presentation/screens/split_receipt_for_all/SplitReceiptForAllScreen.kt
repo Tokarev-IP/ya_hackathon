@@ -286,6 +286,7 @@ fun SplitReceiptForAllScreen(
                     )
                 )
                 doesDataNeedToSave = true
+                isShownSelectConsumerNamesBottomSheet = false
             },
         )
     }
