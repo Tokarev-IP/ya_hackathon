@@ -5,23 +5,21 @@
 Expense Tracker AI — это мобильное приложение, разработанное для автоматизации подсчёта и разделения расходов между друзьями.
 Приложение использует искусственный интеллект для распознавания данных с чеков и создания удобных текстовых или PDF-отчётов.
 
-Основные возможности:
-
+Основные возможности: 
 📸 Создание чеков по фото или изображению
 👥 Автоматическое разделение суммы между друзьями
 📂 Создание папок для удобной организации и хранения чеков
 🧮 Формирование общих отчётов по нескольким чекам
 🧠 Использование Gemini AI API для интеллектуальной обработки данных
-
 🧰 Технологический стек: Android, Kotlin, Koin, Coroutines, Firebase, Gemini AI API	
 
-🎥 Видео демонстрация
+🎥 Видео демонстрация: 
 
-📹 Часть 1	Смотреть на YouTube
-📹 Часть 2	Смотреть на YouTube (Shorts)
+📹 Часть 1	Смотреть на YouTube: https://youtu.be/V9YfEENq0o0
+📹 Часть 2	Смотреть на YouTube: [https://youtube.com/shorts/rw7n-p6RrEM?feature=share](https://youtube.com/shorts/rw7n-p6RrEM?feature=share)
 
 🖼️ Скриншоты приложения
-<p align="center"> <img src="https://github.com/user-attachments/assets/86c94638-eb40-4aac-81b9-f609cfa47a7d" width="200"/> <img src="https://github.com/user-attachments/assets/f46589d0-8de8-4012-91c3-58964124f29b" width="200"/> <img src="https://github.com/user-attachments/assets/bf017c9b-7470-4135-8e6c-79c0325183c9" width="200"/> <img src="https://github.com/user-attachments/assets/0acc0a3e-48b2-4691-9e62-1cf3471bcfa7" width="200"/> <img src="https://github.com/user-attachments/assets/0397d267-b835-40b1-8300-d788ae0da896" width="200"/> <img src="https://github.com/user-attachments/assets/6dd9d5f0-2d42-4771-8100-aae2fae5a774" width="200"/> <img src="https://github.com/user-attachments/assets/17ad1375-7181-4210-91c3-569deb316465" width="200"/> <img src="https://github.com/user-attachments/assets/f4a050da-162c-47d8-9dd1-f66cd97b80e4" width="200"/> <img src="https://github.com/user-attachments/assets/2cd2dd58-422d-402e-b816-fa8614293ec5" width="200"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/86c94638-eb40-4aac-81b9-f609cfa47a7d" width="200"/> <img src="https://github.com/user-attachments/assets/f46589d0-8de8-4012-91c3-58964124f29b" width="200"/> <img src="https://github.com/user-attachments/assets/bf017c9b-7470-4135-8e6c-79c0325183c9" width="200"/> <img src="https://github.com/user-attachments/assets/0acc0a3e-48b2-4691-9e62-1cf3471bcfa7" width="200"/> <img src="https://github.com/user-attachments/assets/0397d267-b835-40b1-8300-d788ae0da896" width="200"/> <img src="https://github.com/user-attachments/assets/6dd9d5f0-2d42-4771-8100-aae2fae5a774" width="200"/> <img src="https://github.com/user-attachments/assets/17ad1375-7181-4210-91c3-569deb316465" width="200"/>
 
 🚀 Запуск приложения
 
